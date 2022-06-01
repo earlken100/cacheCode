@@ -4,7 +4,7 @@ Class User.TestClass Extends %Persistent
 
 ClassMethod test()
 {
-    write !,"hello world",!
+    write !,"hello there world",!
 }
 
 Storage Default
